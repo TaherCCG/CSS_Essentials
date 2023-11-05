@@ -1,0 +1,30 @@
+.rembox1 {
+    background: red;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    width:5rem;         /* added width and height to rem (5 x 16px = 80px) */
+    height:5rem;
+}
+.rembox2 {
+    background: green;
+    border: 1px solid black;
+    margin-bottom: 20px;
+     width:10rem;       /* added width and height to 10rem (10 x 16px = 160px) */ 
+    height:10rem;
+}
+.rembox3 {
+    background: blue;
+    border: 1px solid black;
+    margin-bottom: 20px;
+     width:20rem;       /* added width and height to 20rem (20 x 16px = 320px) */
+    height:20rem;
+}
+p {
+    text-align: center;
+    background: white;
+    padding: 5px;
+    max-width: 70px;
+    position: relative;
+    margin: 10px auto;
+    border: 1px solid black;
+}
