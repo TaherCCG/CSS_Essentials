@@ -1,0 +1,10 @@
+div {                   /* div is blue */
+    color:blue;
+}
+p {                     /* paragraphs are green */
+    color:green;
+}
+
+#important-paragraph {  /* important-paragraph id is red */
+    color:red;
+}
