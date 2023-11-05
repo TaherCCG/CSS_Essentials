@@ -1,0 +1,5 @@
+.vhbox {
+    background: yellow;
+    height:30vh;  /* added 30vh (30% of viewport height) */
+    width:200px;  /* added 200px width */
+}

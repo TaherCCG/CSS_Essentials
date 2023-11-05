@@ -1,0 +1,5 @@
+.vwbox {
+    background: lightblue;
+    width:50vw;     /* added width to 50vw */
+    height:200px;   /*added height to 200px */
+}
