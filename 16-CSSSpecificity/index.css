@@ -1,0 +1,15 @@
+body {
+  font-size: 12px;
+}
+div .brown {        /* added div in front of .brown */
+  color: brown;
+  font-weight: 200;
+}
+div .large {		/* added div in front of .large */
+   font-size: 28px;
+}
+.normal {
+   font-size: 18px;
+   color: blue;
+   font-weight: 700;
+}
