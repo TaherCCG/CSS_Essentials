@@ -1,0 +1,4 @@
+/* added text-decoration line through to "done" class */
+.done {
+    text-decoration:line-through;
+}
