@@ -1,0 +1,9 @@
+div {
+	width: 200px;
+	height: 200px;
+	border: 2px solid #e84610;
+	background-image: url('https://dummyimage.com/50X50/000/fff.png');
+	background-repeat: no-repeat;
+	background-position:bottom right;
+	
+}
