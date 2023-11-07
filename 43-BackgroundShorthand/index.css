@@ -1,0 +1,8 @@
+div {
+	height: 100vh;
+	/*background-image: url("https://dummyimage.com/450x250/f00/fff");*/
+	/*background-position: center center;*/
+	/*background-size: cover;*/
+	/*background-repeat: no-repeat;*/
+	background:url("https://dummyimage.com/450x250/f00/fff") center center / cover no-repeat;
+}
