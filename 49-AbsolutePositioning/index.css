@@ -1,0 +1,23 @@
+header {
+    background: lightblue;
+   
+}
+
+section {
+    background: #ccc;
+}
+
+footer {
+    background: lightgreen;
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+
+.logo {
+    background: yellow;
+    position:absolute;
+    bottom:0;
+    right:0;
+   
+}
