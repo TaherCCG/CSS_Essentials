@@ -1,0 +1,16 @@
+p {
+    width: 30%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+footer > p {
+    width:100%;
+    clear:both;
+}
